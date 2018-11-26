@@ -1,5 +1,5 @@
 { pkgs ? import ./nixpkgs.nix }:
 {
   # blabla
-  hello = pkgs.meshlab;
+  hello = pkgs.hello;
 }
